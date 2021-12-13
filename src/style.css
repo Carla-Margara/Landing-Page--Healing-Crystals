@@ -69,6 +69,10 @@ button:hover {
 
 .credits {
   font-size: 13px;
+  max-width: 650px;
+  text-align: justify;
+  display: block;
+  margin: 0 auto;
 }
 
 .upper-break {
