@@ -66,6 +66,11 @@ button:hover {
   margin: 0 auto;
   padding: 30px 60px;
 }
+
+.credits {
+  font-size: 13px;
+}
+
 .upper-break {
   display: block;
   max-width: 600px;
